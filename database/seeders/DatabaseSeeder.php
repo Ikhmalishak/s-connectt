@@ -18,6 +18,7 @@ class DatabaseSeeder extends Seeder
             PurposeSeeder::class,
             SiteSeeder::class,
             VisitorCompanySeeder::class,
+            UserSeeder::class,
         ]);
     }
 
